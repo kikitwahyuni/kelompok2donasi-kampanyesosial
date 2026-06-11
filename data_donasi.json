@@ -1,0 +1,19 @@
+{
+  "program": [
+    {
+      "nama": "Donasi Pendidikan",
+      "deskripsi": "Membantu biaya sekolah anak kurang mampu",
+      "target": 50000000
+    },
+    {
+      "nama": "Donasi Kesehatan",
+      "deskripsi": "Bantuan biaya pengobatan masyarakat",
+      "target": 75000000
+    },
+    {
+      "nama": "Donasi Bencana Alam",
+      "deskripsi": "Bantuan korban bencana",
+      "target": 100000000
+    }
+  ]
+}
